@@ -1,0 +1,30 @@
+body{
+	background-color: rgb(133,131,142 );
+	background-image: url(../img/fondo.jpg) ;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+#contenedor{
+	background-color: rgba(0,0,0,0.2);	
+	font-family: arial;
+	overflow: hidden;	
+}
+
+#tablero{
+	margin:0 auto;
+	max-width: 1200px;
+	min-width: 800px;
+	width: 80%;
+	height: 850px;
+	max-height: 90%;
+}
+
+img{
+	height: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}

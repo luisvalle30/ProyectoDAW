@@ -1,0 +1,15 @@
+#contenedor{
+	margin:0 auto;
+	max-width: 1200px;
+	min-width: 800px;
+	width: 80%;
+	height: 910px;
+	max-height: 90%;
+	padding-left: 150px;
+}
+#tablero{
+	position: relative;
+	
+	width: 90%;
+	margin: 0 auto;
+}
